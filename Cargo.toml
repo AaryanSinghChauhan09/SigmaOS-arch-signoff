@@ -1,0 +1,8 @@
+[package]
+name = "sigmaos-arch-signoff"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Package test sign-off tooling — SigmaOS component inspired by Arch Linux infrastructure."
+
+[dependencies]
