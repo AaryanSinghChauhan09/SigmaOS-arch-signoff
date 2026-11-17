@@ -3,7 +3,7 @@ name = "SigmaOS-arch-signoff"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-signoff component"
+description = "SigmaOS arch-signoff component (Arch Linux inspired)"
 upstream = []
 
 [contract]
