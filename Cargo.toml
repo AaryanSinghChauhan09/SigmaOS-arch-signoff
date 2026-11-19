@@ -1,8 +1,15 @@
 [package]
-name = "sigmaos-arch-signoff"
+name = "SigmaOS-arch-signoff"
 version = "0.1.0"
 edition = "2021"
-license = "MIT"
-description = "Package test sign-off tooling — SigmaOS component inspired by Arch Linux infrastructure."
+license = "Apache-2.0"
+description = "SigmaOS arch_signoff component"
+
+[lib]
+name = "arch_signoff"
+path = "src/lib.rs"
 
 [dependencies]
+thiserror = "1"
+
+[dev-dependencies]
