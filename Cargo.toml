@@ -1,12 +1,12 @@
 [package]
-name = "SigmaOS-arch-signoff"
+name = "sigmaos-signoff"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
-description = "SigmaOS arch_signoff component"
+description = "SigmaOS sigmaos_signoff component"
 
 [lib]
-name = "arch_signoff"
+name = "sigmaos_signoff"
 path = "src/lib.rs"
 
 [dependencies]

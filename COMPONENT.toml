@@ -1,9 +1,9 @@
 [component]
-name = "SigmaOS-arch-signoff"
+name = "SigmaOS-signoff"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "SigmaOS arch-signoff component (Arch Linux inspired)"
+description = "SigmaOS signoff component (Arch Linux inspired)"
 upstream = []
 
 [contract]

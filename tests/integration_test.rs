@@ -1,4 +1,4 @@
-use arch_signoff::Component;
+use sigmaos_signoff::Component;
 
 #[test]
 fn test_component_lifecycle_aaa() {

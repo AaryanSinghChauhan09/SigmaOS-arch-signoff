@@ -1,4 +1,4 @@
-//! SigmaOS arch_signoff component
+//! SigmaOS signoff component
 #![forbid(unsafe_code)]
 #![warn(missing_docs)]
 

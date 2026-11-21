@@ -1,6 +1,6 @@
-# SigmaOS-arch-signoff
+# SigmaOS-signoff
 
-SigmaOS arch-signoff component (Arch Linux inspired)
+SigmaOS signoff component (Arch Linux inspired)
 
 - **Category:** Messaging
 - **Engine:** messaging
